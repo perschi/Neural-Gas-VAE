@@ -4,7 +4,8 @@ The Neural-Gas VAE is an improved version of the VQ-VAE that avoids
 index collapse and creates a representation of a manifold as a graph
 between codebook vectors.
 
-![img](./images/NG_CIFAR.svg) ![img](./images/NG_manifold_object.svg)
+![img](./images/NG_CIFAR.svg) 
+![img](./images/Ng_manifold_object.svg)
 
 
 Here, you find an implementation of the Neural-Gas VAE and the VQ-VAE implementations
